@@ -1,10 +1,10 @@
+import ColorMe from "./components/ColorMe"
 
 
 function App() {
 
   return (
-    <>
-    </>
+    <ColorMe />
   )
 }
 
